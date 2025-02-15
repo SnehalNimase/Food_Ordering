@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\nimas\OneDrive\Desktop\CDAC\1.11FlavourHub\food-ordering-project-2024-02-07-03-39-35\Source\backend-spring boot"/>
 			<item value="C:\Users\nimas\OneDrive\Desktop\CDAC\1.1Cdac_Final_Project\food-ordering-project-2024-02-07-03-39-35\Source\backend-spring boot"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -12,9 +13,5 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
