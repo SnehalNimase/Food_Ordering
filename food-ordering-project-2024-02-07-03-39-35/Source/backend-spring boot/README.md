@@ -1,4 +1,4 @@
-# Zosh Food
+# FlavourHub Food
 
 1. **User:**
     - ID (Auto-generated)
